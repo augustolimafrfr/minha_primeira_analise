@@ -22,14 +22,14 @@ Site da DSA: https://www.datascienceacademy.com.br/
 * Porcentagem e contagem de compradores do sexo feminino
 * Porcentagem e contagem de outros / não divulgados
 
-##4. Análise de Compras Por Gênero
+## 4. Análise de Compras Por Gênero
 
 * Número de compras
 * Preço médio de compra
 * Valor Total de Compra
 * Compras for faixa etária
 
-##Identifique os 5 principais compradores pelo valor total de compra e, em seguida, liste (em uma tabela):
+## 5. Identifique os 5 principais compradores pelo valor total de compra e, em seguida, liste (em uma tabela):
 
 * Login
 * Número de compras
