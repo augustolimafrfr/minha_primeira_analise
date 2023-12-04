@@ -5,31 +5,31 @@ Site da DSA: https://www.datascienceacademy.com.br/
 
 **As perguntas propostas foram:**
 
-** ## 1. Contagem de Consumidores**
+## 1. Contagem de Consumidores
 
 * Número total de consumidores
 
-** ## 2.  Análise Geral de Compras **
+## 2.  Análise Geral de Compras
 
 * Número de itens exclusivos
 * Preço médio de compra
 * Número total de compras
 * Rendimento total
 
-** ## 3. Informações Demográficas Por Gênero **
+## 3. Informações Demográficas Por Gênero
 
 * Porcentagem e contagem de compradores masculinos
 * Porcentagem e contagem de compradores do sexo feminino
 * Porcentagem e contagem de outros / não divulgados
 
-** ##4. Análise de Compras Por Gênero **
+##4. Análise de Compras Por Gênero
 
 * Número de compras
 * Preço médio de compra
 * Valor Total de Compra
 * Compras for faixa etária
 
-** ##Identifique os 5 principais compradores pelo valor total de compra e, em seguida, liste (em uma tabela): **
+##Identifique os 5 principais compradores pelo valor total de compra e, em seguida, liste (em uma tabela):
 
 * Login
 * Número de compras
@@ -37,7 +37,7 @@ Site da DSA: https://www.datascienceacademy.com.br/
 * Valor Total de Compra
 * Itens mais populares
 
-** ## 6.Identifique os 5 itens mais populares por contagem de compras e, em seguida, liste (em uma tabela): **
+## 6.Identifique os 5 itens mais populares por contagem de compras e, em seguida, liste (em uma tabela):
 
 * ID do item
 * Nome do item
@@ -46,7 +46,7 @@ Site da DSA: https://www.datascienceacademy.com.br/
 * Valor Total de Compra
 * Itens mais lucrativos
 
-** ## 7. Identifique os 5 itens mais lucrativos pelo valor total de compra e, em seguida, liste (em uma tabela): **
+## 7. Identifique os 5 itens mais lucrativos pelo valor total de compra e, em seguida, liste (em uma tabela):
 
 * ID do item
 * Nome do item
